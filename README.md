@@ -1,6 +1,6 @@
-# {{DECKDECKGO_TITLE}}
+# Studio v3
 
-{{DECKDECKGO_DESCRIPTION}} 
+Waves 
 
 ## Table of contents
 
@@ -11,15 +11,15 @@
 
 ## Slides
 
-🔗 [https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}}](https://beta.deckdeckgo.io{{DECKDECKGO_BASE_HREF}})
+🔗 [https://beta.deckdeckgo.io/peterpeterparker/studio-v3/](https://beta.deckdeckgo.io/peterpeterparker/studio-v3/)
 
 ## Usage
 
 💻 To get started locally with this presentation, clone this repo and install its dependencies.
 
 ```
-git clone {{DECKDECKGO_GITHUB_REPO_URL}}
-cd {{DECKDECKGO_GITHUB_REPO_NAME}}
+git clone https://github.com/peterpeterparker/studio-v3
+cd studio-v3
 npm install
 ```
 
